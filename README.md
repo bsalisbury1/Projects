@@ -11,3 +11,19 @@ Ideas for projects came from:
 
 1. Stock Price Prediction
 2. Fake News Detection 
+
+### Notes for the authors
+
+When outputting environment information after updating Python libraries, use
+
+```bash
+conda env export > environment.yml
+```
+
+to export a YAML file and 
+
+```bash
+conda list -e > requirements.txt
+```
+
+to export a text file.  It's not clear at this point which one is more advantageous, so do both to be safe.

@@ -12,7 +12,7 @@ Ideas for projects came from:
 1. Stock Price Prediction
 2. Fake News Detection 
 
-### Notes for the authors
+## Notes *for* the authors
 
 When outputting environment information after updating Python libraries, use
 

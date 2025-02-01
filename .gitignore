@@ -1,3 +1,5 @@
 pip.venv/
 
 .DS_store
+
+data/

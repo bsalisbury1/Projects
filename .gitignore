@@ -3,3 +3,4 @@ pip.venv/
 .DS_store
 
 data/
+chollet_test/
